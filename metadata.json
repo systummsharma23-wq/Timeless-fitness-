@@ -1,6 +1,0 @@
-{
-  "name": "Timeless Fitness Jaipur",
-  "description": "Premium 4.7-star fitness center in Malviya Nagar, Jaipur featuring Rooftop CrossFit, aesthetic cardio deck, and elite training.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
